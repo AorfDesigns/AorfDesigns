@@ -20,6 +20,7 @@ With my unwavering dedication, continuous pursuit of knowledge, and passion for 
 - **Email:** [rahformatives@gmail.com](mailto:YourEmail@example.com)
 - **LinkedIn:** [https://www.linkedin.com/in/abdulrahman-aminu-b648041ba/](#)
 - **WhatsApp:** [+2347030188861](#)
+- **X:** [@heisabdulrahman](#)
 
 ## 🌱 Currently Learning
 I'm currently diving deeper into TypeScript and exploring serverless architectures.

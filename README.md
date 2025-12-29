@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdulrahman Aminu!
 
 ## About Me
-I am a dedicated and ambitious junior React front-end developer with a clear vision for my future. My journey in the tech world began with a fascination for creating dynamic and interactive user interfaces. Armed with a solid understanding of JavaScript and a passion for learning, I quickly gravitated towards React, captivated by its flexibility and efficiency in building modern web applications.
+I am a dedicated and ambitious  front-end developer with a clear vision for my future. My journey in the tech world began with a fascination for creating dynamic and interactive user interfaces. Armed with a solid understanding of JavaScript and a passion for learning, I quickly gravitated towards React, captivated by its flexibility and efficiency in building modern web applications.
 
  I focus on developing and optimizing user interfaces, ensuring they are both visually appealing and highly functional. I have collaborated closely with designers and back-end developers, honing my skills in problem-solving and effective communication. My eagerness to take on new challenges and my commitment to continuous improvement are evident in the quality of my work and my proactive approach to learning.
 

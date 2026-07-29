@@ -20,6 +20,6 @@ React • Next.js • TypeScript • Node.js • PostgreSQL • Prisma • Tailw
 - AORF Designs
 
 ### 📫 Let's Connect
-💼 LinkedIn: linkedin.com/in/your-linkedin  
-🌐 Portfolio: your-portfolio-link  
-📧 your@email.com
+💼 LinkedIn: https://www.linkedin.com/in/abdulrahman-aminu-aorf-designs-b648041ba?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+🌐 Portfolio: https://aorfdesigns.netlify.app/
+📧 rahformatives@gmail.com
